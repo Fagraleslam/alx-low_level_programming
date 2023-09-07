@@ -5,7 +5,7 @@
  *
  * Description: A rogram that prints line in error
  * 
- * Return: 0 (Success)
+ * Return: 1 (Success)
  *
  */
 int main(void)
