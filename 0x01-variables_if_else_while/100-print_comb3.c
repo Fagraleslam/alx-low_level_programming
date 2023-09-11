@@ -5,7 +5,7 @@
  *
  * Description: prints all possible different combinations of two digits
  *
- * EReturn: 0 (success)
+ * Return: 0 (success)
 */
 
 int main(void)
